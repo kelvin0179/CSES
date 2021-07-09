@@ -60,3 +60,4 @@ void solve()
     write(ans);
 }
 ```
+![image](https://user-images.githubusercontent.com/56430190/125108596-dc2ab200-e0ff-11eb-86c7-336450b7b5cc.png)
